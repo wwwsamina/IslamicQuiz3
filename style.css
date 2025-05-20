@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #4CAF50;
+  background: #3f15bc;
   background-image: radial-gradient(circle, #9659a5, #3f15bc);
   min-height: 100vh;
   display: flex;
